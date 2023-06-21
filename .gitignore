@@ -6,6 +6,7 @@ __pycache__/
 .vscode/
 *.csv
 *.xlsx
+*.json
 
 # Byte-compiled / optimized / DLL files
 *.py[cod]
